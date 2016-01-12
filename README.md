@@ -1,2 +1,6 @@
 # guac
-Guacamole recipe
+> Guacamole recipe
+
+------
+
+<http://www.nber.org>
